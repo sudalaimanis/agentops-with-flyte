@@ -28,7 +28,6 @@ Production-style AgentOps orchestration platform using Flyte, Gemini AI, Kuberne
 * Gemini AI
 * Docker
 * Kubernetes
-* WSL Ubuntu
 
 ---
 
